@@ -1,0 +1,9 @@
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\bin\Debug\CalculationSystem.exe.config
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\bin\Debug\CalculationSystem.exe
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\bin\Debug\CalculationSystem.pdb
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.csprojResolveAssemblyReference.cache
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.FrmMain.resources
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.Properties.Resources.resources
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.csproj.GenerateResource.Cache
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.exe
+D:\Projects\C#Projects\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.pdb

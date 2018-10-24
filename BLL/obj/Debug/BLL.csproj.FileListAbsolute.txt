@@ -1,0 +1,9 @@
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\bin\Debug\BLL.dll
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\bin\Debug\BLL.pdb
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\bin\Debug\DAL.dll
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\bin\Debug\Models.dll
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\bin\Debug\DAL.pdb
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\bin\Debug\Models.pdb
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\obj\Debug\BLL.dll
+D:\Projects\C#Projects\CalculationSystem\calculation-system\BLL\obj\Debug\BLL.pdb
